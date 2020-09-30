@@ -1,6 +1,6 @@
 # Kumunite-Frontend
 
-Social event platform for Koç University.
+Front end for Kumunite - a social event platform for Koç University. 
 
 ## Build Setup
 
