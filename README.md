@@ -1,5 +1,7 @@
 # Kumunite-Frontend
 
+Social event platform for Koç University.
+
 ## Build Setup
 
 ```bash
